@@ -1,0 +1,11 @@
+com\literalura\Literalura\model\AuthorEntity.class
+com\literalura\Literalura\repository\AuthorRepository.class
+com\literalura\Literalura\service\AuthorService.class
+com\literalura\Literalura\LiteraluraApplication.class
+com\literalura\Literalura\model\BookEntity.class
+com\literalura\Literalura\service\BookService.class
+com\literalura\Literalura\model\Author.class
+com\literalura\Literalura\service\ApiService.class
+com\literalura\Literalura\model\Book.class
+com\literalura\Literalura\repository\BookRepository.class
+com\literalura\Literalura\config\DatabaseConfig.class
